@@ -1,1 +1,15 @@
+async-timeout==4.0.1
+neotime==1.7.4
+psutil==5.9.0
+sendgrid==6.9.7
+configobj==5.0.6
+python-socketio==5.0.3
+websocket-client==1.2.3
+websockets==10.2
+kaitaistruct==0.9
+python-dateutil==2.8.1
+pluginbase==1.0.1
+asysocks==0.1.2
+syslog-rfc5424-formatter==1.2.2
+pyfiglet==0.8.post0
 
